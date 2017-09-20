@@ -1,2 +1,3 @@
 # store
-Spring Boot Store Microservice
+
+Spring Boot microservice for a simple store application with customers
